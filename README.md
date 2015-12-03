@@ -32,7 +32,7 @@ Foi utilizado o sensor de luminosidade do kit Grove.
 ## Display
 Utilizou-se um display LCD de 16 colunas e 2 linhas, e a biblioteca *LiquidCrystal.h*, que permite escrever no display facilmente usando a função print(). A implementação em hardware foi feita seguindo o esquemático abaixo.
 
-!!! COLOCAR O ESQUEMÁTICO DO DISPLAY !!!
+![Esquemático do LCD](/Esquematico LCD.png)
 
 ## Sintetização de voz
 Para emitir mensagens de voz, conectou-se uma caixa de som e utilizou-se a biblioteca *TTS.h*, uma biblioteca de sintetização text-to-speech para Arudino desenvolvida por [Stephen Crane](https://github.com/jscrane/TTS/blob/master/TTS.h). Com essa biblioteca, pode-se escrever em uma string o texto a ser convertido em voz e basta utilizar a função say() para realizar a conversão.
