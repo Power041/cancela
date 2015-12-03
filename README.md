@@ -14,6 +14,8 @@ Para isso, são utilizados os seguintes componentes:
 
 # Esquemático
 
+Disponível [aqui](http://schematics.com/project/cancela-24156/).
+
 ![Esquemático](/Esquematico.png)
 
 # Implementação
