@@ -14,6 +14,8 @@ Para isso, são utilizados os seguintes componentes:
 
 # Esquemático
 
+![Esquemático](/Esquematico.png)
+
 # Implementação
 
 ## Motor de passo
