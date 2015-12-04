@@ -44,3 +44,5 @@ em primeiro lugar, só se leem strings em inglês;
 além disso, a voz é semelhante a de um robô e, assim, é basicamente incompreensível.
 
 # Vídeo
+
+Disponível [aqui](https://goo.gl/photos/CiHSRKrdYxHYSC9f6).
