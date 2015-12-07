@@ -45,4 +45,4 @@ Como alternativa, foi utilizada a biblioteca *talkie.h*, desenvolvida por [Peter
 
 # Vídeo
 
-
+Disponivel [aqui](https://www.youtube.com/watch?v=om_v2uHnFMI).
