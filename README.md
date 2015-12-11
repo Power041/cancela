@@ -1,5 +1,9 @@
 # Cancela
 
+Projeto desenvolvido por **Lucas da Costa Martins Silva** e **Vitor Rocha**, estudantes de Engenharia de Computação na Universidade Federal de São Carlos, para a disciplina de Microcontroladores e Aplicações, ministrada pelo Professor Dr. Ricardo Menotti.
+
+# Descrição do projeto
+
 Este projeto é um sistema de cancela para a entrada de um estacionamento de carros. A cancela deve liberar a entrada do carro após o motorista apertar um botão e retirar o cartão. Em seguida, a cancela fecha quando o carro terminar de passar por ela.
 
 Para isso, são utilizados os seguintes componentes:
@@ -46,3 +50,27 @@ Como alternativa, foi utilizada a biblioteca *talkie.h*, desenvolvida por [Peter
 # Vídeo
 
 Disponivel [aqui](https://www.youtube.com/watch?v=om_v2uHnFMI).
+
+# Outros trabalhos desta disciplina
+
+https://github.com/Power041/cancela
+
+https://github.com/jblsouza/Lab-Mic-A
+
+https://github.com/iksmada/TuringMachine
+
+https://github.com/Fonseka100/MIC-Amaciante
+
+https://github.com/matheusvervloet/girassolar
+
+https://github.com/alex-dias/TrabalhoFinalMIC2015
+
+https://github.com/gustavocesarlos/trabalhofinalMic
+
+https://github.com/gabrielNT/LabMicApl_TrabalhoFinal
+
+https://github.com/brunowilliamsap/microcontroladores
+
+https://github.com/rodrigoa1990/Projeto-Microcontroladores
+
+https://github.com/matheusDeAlmeida/trabalhoFinalMicrocontroladores
