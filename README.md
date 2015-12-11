@@ -53,8 +53,6 @@ Disponivel [aqui](https://www.youtube.com/watch?v=om_v2uHnFMI).
 
 # Outros trabalhos desta disciplina
 
-https://github.com/Power041/cancela
-
 https://github.com/jblsouza/Lab-Mic-A
 
 https://github.com/iksmada/TuringMachine
